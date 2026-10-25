@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Poonam Makode 👋
 
-<!--
-**PoonamMakode/PoonamMakode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Machine Learning Engineering Trainee** based in Bhopal, India 🇮🇳
+I turn data into predictions — and explain them clearly.
 
-Here are some ideas to get you started:
+## 🔧 Skills
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Projects
+- **[Student Score Prediction](https://github.com/PoonamMakode/GRIP-Internship-Tasks)** – Supervised ML (linear regression) to predict scores from study hours
+- **[LetsGrowMore Data Science Tasks](https://github.com/PoonamMakode/LetsGrowMore_DataScience-Task)** –
+- **[Oasis Infobyte ML Tasks](https://github.com/PoonamMakode/OasisInfobyteInternTask_ml)** – [1 line: kya kiya]
+
+## 🌱 Currently
+- Learning: [e.g., model evaluation, deep learning basics]
+- Looking for: ML / Data Science internship & entry-level roles
+
+## ✍️ Also
+Content writing • Website design
+
+## 📫 Connect
+[LinkedIn](https://www.linkedin.com/in/poonam-makode-159194208) • [Email: your-email]## Hi there 👋
+
